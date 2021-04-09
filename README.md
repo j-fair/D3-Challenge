@@ -24,6 +24,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 ## Your Task
 
+## URL For Project can be found here: https://j-fair.github.io/D3-Challenge/
+
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
 ![4-scatter](Images/4-scatter.jpg)
